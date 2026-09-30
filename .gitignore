@@ -1,1 +1,16 @@
 __pycache__/*.pyc
+
+# preliminary learning analysis: regenerable caches (REBUILD=True)
+prelim_cache_trials.csv
+prelim_cache_traj.npz
+prelim_results.csv
+prelim_results_h3.csv
+figures/
+prelim_cache_sessions.pkl
+
+# H4 timecourse-of-corrections caches (regenerable)
+prelim_cache_time/
+prelim_cache_corrections.npz
+prelim_cache_corrections.csv
+prelim_results_h4.csv
+prelim_learning_analysis.ipynb.bak
